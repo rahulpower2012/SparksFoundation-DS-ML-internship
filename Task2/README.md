@@ -3,7 +3,7 @@
 This is a simple project to predict scores of students based on the hours they studied.<br>
 The dataset is availabe at http://bit.ly/w-data <br>
 
-#### Libraries ued
+#### Libraries used
 1.Pandas<br>
 2.Numpy<br>
 3.SkLearn<br>

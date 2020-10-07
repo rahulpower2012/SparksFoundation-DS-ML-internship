@@ -2,7 +2,7 @@
 
 This is a simple project to cluster species of iris by using the given dataset.<br>
 
-#### Libraries ued
+#### Libraries used
 1.Pandas<br>
 2.Numpy<br>
 3.SkLearn<br>
